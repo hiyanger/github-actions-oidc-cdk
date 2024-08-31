@@ -1,3 +1,8 @@
+下記記事用リポジトリ
+
+OIDC を使って GitHub Actions から AWS CDK を動かす
+https://zenn.dev/iret/articles/cdk-githubactions-oidc-20240830
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
